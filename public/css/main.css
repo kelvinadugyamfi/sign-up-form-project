@@ -1,0 +1,58 @@
+*{
+    /* background-color: cornsilk; */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image:url(../images/body-bg.jpg);
+}
+
+label{
+    margin: 25px;
+    display: inline-block;
+}
+
+#formContent{
+    background-color: white;
+    /* display: inline-block; */
+    width: 35%;
+    height: 88vh;
+    position:absolute;
+    top: 8%;
+    left: 10%;
+    border-radius: 5px;
+}
+
+.fromControl{
+    display: block;
+    width: 85%;
+    margin: 20px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid rgb(216, 214, 214);
+    outline: none;
+}
+
+p{
+    margin: 28px;
+}
+
+#tems{
+    margin: 28px;
+}
+
+#Rbtn{
+    margin: 28px;
+    padding: 12px;
+    /* border: 1px solid rgb(73, 73, 239); */
+    border: none;
+    color: white;
+    background-color: rgb(73, 73, 239);
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+span{
+    color: rgb(135, 133, 133);
+}
